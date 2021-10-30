@@ -18,6 +18,8 @@ All contributions are **welcome**.
 
    [<img src="https://i.vimeocdn.com/video/472928030_200x150.jpg" width="200px" height="150px"/>](https://vimeo.com/92976563)
    
+- [**An introductory tutorial on type-level programming with Vitaly Bragilevsky / Haskell in Depths** by Dr. Vitaly Bragilevsky](https://www.twitch.tv/manningpublications/video/702913141)
+   
 - [**Functional Programming and Haskell** - Tim Dawborn and James Constab](https://vimeo.com/1920921)
 
    [<img src="https://i.vimeocdn.com/video/63189999_200x150.jpg" width="200px" height="150px" />](https://vimeo.com/1920921)
